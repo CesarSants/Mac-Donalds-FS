@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "/donalds/",
+            "permanent": true
+        }
+    ]
+  }
